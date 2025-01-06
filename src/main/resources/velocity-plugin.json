@@ -1,0 +1,7 @@
+{
+  "id": "custommotd",
+  "name": "CustomMOTD Plugin",
+  "version": "1.0",
+  "authors": ["MarcWissler"],
+  "main": "de.marc.custommotd.Main"
+}
